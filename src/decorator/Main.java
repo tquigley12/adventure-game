@@ -4,6 +4,7 @@ import static java.lang.Character.toUpperCase;
 import java.util.Scanner;
 
 /**
+ * 
  * This is the main driver class for a basic adventure game.  To embark on a campaign,
  * the adventurer first chooses a name and then chooses items to equip (sword, spear and shield).  
  * Then the campaign begins.
