@@ -154,7 +154,7 @@ public class Main {
             }
         } while (!endUserLoop);
         
-        if (basicCharacter.getMight() < 0) {
+        if (basicCharacter.getMight() <= 0) {
             System.out.println("");
             System.out.print(basicCharacter.getName());
             System.out.println("  you have perished. ");
